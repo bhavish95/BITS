@@ -1,0 +1,6 @@
+public class test{
+    public static void main(String[] args){
+        int n=12;
+        System.out.print((n&1)==1? "odd":"even");
+    }
+}
